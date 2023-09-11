@@ -71,5 +71,5 @@ mintNFT("Nancy", "Moonlight", "Black", "T-Shirt", "Gold Necklace");
 mintNFT("Vikash", "Sunshine", "Brown", "Polo", "Silver Ring");
 displayNFTCollection();
 totalNFTs();
-transferNFT(nftCollection[0].UUID, "Charlie");
+transferNFT(nftCollection[0].UUID, "Vikash");
 displayNFTCollection();
