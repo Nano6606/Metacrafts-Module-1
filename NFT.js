@@ -67,8 +67,8 @@ function transferNFT(UUID, newOwner) {
 }
 
 // Demo usage
-mintNFT("Alice", "Moonlight", "Blue", "T-Shirt", "Silver Ring");
-mintNFT("Bob", "Sunshine", "Green", "Polo", "Gold Necklace");
+mintNFT("Nancy", "Moonlight", "Black", "T-Shirt", "Gold Necklace");
+mintNFT("Vikash", "Sunshine", "Brown", "Polo", "Silver Ring");
 displayNFTCollection();
 totalNFTs();
 transferNFT(nftCollection[0].UUID, "Charlie");
