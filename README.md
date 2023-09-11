@@ -1,4 +1,4 @@
-# Metacrafts-Module-1
+# Metacrafters-Module-1
 
 
 # NFT Minting and Management System
